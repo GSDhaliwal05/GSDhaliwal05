@@ -5,7 +5,7 @@
 
 💻 **Student Developer**  
 🔌 **Tech Enthusiast**  
-🌱 Learning **Java, HTML & CSS**  
+🌱 Learning **Java, HTML, CSS & Python**  
 🚀 Always improving and building new projects  
 
 ---
