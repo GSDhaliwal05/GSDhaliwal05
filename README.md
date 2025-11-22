@@ -5,16 +5,16 @@
 
 💻 **Student Developer**  
 🔌 **Tech Enthusiast**  
-🌱 Proeffient & Always Learning **Java, HTML, CSS & Python**  
-🚀 Always improving and building new projects  
+🎓 Proeffient & Always Learning **Java, HTML, CSS & Python**  
+📈 Always improving and building new projects  
 
 ---
 
-## 🔧 Languages & Tools
+## </> Languages & Tools
 - **Languages:** Java, Python, HTML, CSS  
 - **Tools:** GitHub, VS Code  
 
 ---
 
-## 📫 Contact
+## 📩 Contact
 **Email:** guranshcodes@outlook.com
